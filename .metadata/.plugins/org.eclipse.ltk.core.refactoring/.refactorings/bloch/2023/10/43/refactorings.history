@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;arsw.proyect&apos; to &apos;arsw.proyect.services&apos;&#x0D;&#x0A;- Original project: &apos;bloch&apos;&#x0D;&#x0A;- Original element: &apos;bloch/src/main/java/arsw.proyect&apos;&#x0D;&#x0A;- Renamed element: &apos;bloch/src/main/java/arsw.proyect.services&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;arsw.proyect&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;arsw.proyect" name="arsw.proyect.services" qualified="false" references="true" stamp="1698210836178" textual="false" version="1.0"/>
+</session>
